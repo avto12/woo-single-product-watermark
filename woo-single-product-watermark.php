@@ -2,8 +2,8 @@
 /**
  * Plugin Name: Woo Single Product Watermark (File-based)
  * Description: Adds a REAL watermark (modified image file) for WooCommerce single product images (main + gallery) ONLY on single product pages. Original media files remain clean.
- * Author: Avto + ChatGPT
- * Version: 1.1.0
+ * Author: Avtandil Kakachishvili
+ * Version: 1.0.0
  * Text Domain: woo-single-product-watermark
  */
 
